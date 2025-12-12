@@ -15,7 +15,6 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "puppeteer": "^24.33.0",
-    "reverso-api": "^2.22.10"
+    "puppeteer": "^24.33.0"
   }
 }
