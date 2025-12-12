@@ -1,0 +1,21 @@
+{
+  "name": "autofill-anki",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx watch src/main.ts",
+    "dev": "tsx src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.0",
+    "ts-node-dev": "^2.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "puppeteer": "^24.33.0",
+    "reverso-api": "^2.22.10"
+  }
+}
